@@ -20,11 +20,11 @@ const profileData: ProfileData = {
     "I love to eat.",
     "Sue Hoang :3",
   ],
-  graduatingClass: 2025,
-  majorMinor: "B.A. in Computer Science, Minor in Economics",
-  websiteHref: "https://github.com/wderocco8",
-  imgSrc: "/images/profile/profile.jpeg",
-  currentPosition: "Teaching Assistant for cs412 (Full-Stack Applications)"
+  graduatingClass: 2027,
+  majorMinor: "B.A. in Business Administration, Concentrating in Accounting and Information Systems",
+  websiteHref: "https://github.com/suehoangz",
+  imgSrc: "/Users/suehoang/Downloads/7735C989-B94A-4CBF-8E92-A110E22EDCE5.JPEG",
+  currentPosition: "Incoming Tax Intern at KPMG"
 };
 
 /**
