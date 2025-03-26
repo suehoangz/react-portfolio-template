@@ -23,7 +23,7 @@ const profileData: ProfileData = {
   graduatingClass: 2027,
   majorMinor: "B.A. in Business Administration, Concentrating in Accounting and Information Systems",
   websiteHref: "https://github.com/suehoangz",
-  imgSrc: "/Users/suehoang/Downloads/7735C989-B94A-4CBF-8E92-A110E22EDCE5.JPEG",
+  imgSrc: "/images/profile/profile.jpeg",
   currentPosition: "Incoming Tax Intern at KPMG"
 };
 
